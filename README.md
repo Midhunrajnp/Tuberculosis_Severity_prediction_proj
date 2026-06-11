@@ -115,6 +115,18 @@ Severity scores from multiple visits are plotted to visualize disease progressio
 
 ---
 
+## Dataset
+
+The TBX11K dataset is not included in this repository due to size limitations.
+
+Download the dataset separately and place it inside:
+
+data/TBX11K/
+
+
+## Trained Model
+
+The trained model file is not included due to GitHub file size limitations.
 ## Author
 
 Midhunraj N P
